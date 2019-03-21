@@ -1,0 +1,26 @@
+implement suffix searching in trie
+
+return all possible options when a key is searched
+
+
+creating instance of trie in event.js
+
+populate trie with options
+
+on keyup: 
+	- search the trie for pressed key
+	- display result if it is found in the div
+	- also display all possible options that come off the pressed key
+
+create event listener for selecting an event from the list
+
+fill the text area with the full phrase from within the trie
+
+~ add a comma and space at end of entered phrase depending on key pressed
+
+
+
+
+
+
+
